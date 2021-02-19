@@ -26,9 +26,17 @@ Weather search web application in
 
 ## Gallery
 
-![alt text](https://github.com/0xARK/weather-search/blob/main/client/images/demo1.png?raw=true)
-![alt text](https://github.com/0xARK/weather-search/blob/main/client/images/demo2.png?raw=true)
-![alt text](https://github.com/0xARK/weather-search/blob/main/client/images/demo3.png?raw=true)
+Homepage :
+
+![alt text](https://github.com/0xARK/weather-search/blob/master/client/images/demo1.png?raw=true)
+
+Search raws :
+
+![alt text](https://github.com/0xARK/weather-search/blob/master/client/images/demo2.png?raw=true)
+
+Responsive view :
+
+![alt text](https://github.com/0xARK/weather-search/blob/master/client/images/demo3.png?raw=true)
 
 ## In which context did I this project?
 
